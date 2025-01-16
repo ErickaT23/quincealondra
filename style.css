@@ -378,7 +378,7 @@ body {
     background-color: #fbf2f2;
 }
 .section-playlist p {
-    font-family: var(--font-1);
+    font-family: var(--font-text);
     font-style: italic;
     font-weight: 400;
     font-size: 28px;
@@ -443,7 +443,7 @@ body {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 .section p, .section-gifts p, .section-filter p{
-    font-family: var(--font-1);
+    font-family: var(--font-text);
     font-style: italic;
     font-weight: 400;
     font-size: 24px;
@@ -549,7 +549,7 @@ button {
     background-color:#d4af37;
     color: #fff;
     border-radius: 5px;
-    font-family: var(--font-1);
+    font-family: var(--font-text);
     padding: 10px;
     transition: background-color 0.3s;
     border: none;
